@@ -1,6 +1,7 @@
 # npmdoc-angular2-select
 
-api documentation for  [angular2-select (v1.0.0-beta.3)](https://basvandenberg.github.io/angular2-select)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-select.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-select.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-select)
+#### basic api documentation for  [angular2-select (v1.0.0-beta.3)](https://basvandenberg.github.io/angular2-select)  [![npm package](https://img.shields.io/npm/v/npmdoc-angular2-select.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-angular2-select) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-angular2-select.svg)](https://travis-ci.org/npmdoc/node-npmdoc-angular2-select)
+
 #### Select component for Angular2.
 
 [![NPM](https://nodei.co/npm/angular2-select.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/angular2-select)
@@ -85,7 +86,8 @@ api documentation for  [angular2-select (v1.0.0-beta.3)](https://basvandenberg.g
         "url": "git+ssh://git@github.com/basvandenberg/angular2-select.git"
     },
     "scripts": {},
-    "version": "1.0.0-beta.3"
+    "version": "1.0.0-beta.3",
+    "bin": {}
 }
 ```
 
